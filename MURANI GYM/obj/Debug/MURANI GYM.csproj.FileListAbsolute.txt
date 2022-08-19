@@ -1,0 +1,14 @@
+C:\Users\chaga\Documents\Chaga John\All Projects\MURANI GYM\MURANI GYM\bin\Debug\MURANI GYM.exe.config
+C:\Users\chaga\Documents\Chaga John\All Projects\MURANI GYM\MURANI GYM\bin\Debug\MURANI GYM.exe
+C:\Users\chaga\Documents\Chaga John\All Projects\MURANI GYM\MURANI GYM\bin\Debug\MURANI GYM.pdb
+C:\Users\chaga\Documents\Chaga John\All Projects\MURANI GYM\MURANI GYM\obj\Debug\MURANI GYM.csproj.AssemblyReference.cache
+C:\Users\chaga\Documents\Chaga John\All Projects\MURANI GYM\MURANI GYM\obj\Debug\MURANI GYM.csproj.SuggestedBindingRedirects.cache
+C:\Users\chaga\Documents\Chaga John\All Projects\MURANI GYM\MURANI GYM\obj\Debug\MURANI_GYM.frmInsertRecords.resources
+C:\Users\chaga\Documents\Chaga John\All Projects\MURANI GYM\MURANI GYM\obj\Debug\MURANI_GYM.Properties.Resources.resources
+C:\Users\chaga\Documents\Chaga John\All Projects\MURANI GYM\MURANI GYM\obj\Debug\MURANI_GYM.frmViewRecords.resources
+C:\Users\chaga\Documents\Chaga John\All Projects\MURANI GYM\MURANI GYM\obj\Debug\MURANI_GYM.frmViewTrends.resources
+C:\Users\chaga\Documents\Chaga John\All Projects\MURANI GYM\MURANI GYM\obj\Debug\MURANI GYM.csproj.GenerateResource.cache
+C:\Users\chaga\Documents\Chaga John\All Projects\MURANI GYM\MURANI GYM\obj\Debug\MURANI GYM.csproj.CoreCompileInputs.cache
+C:\Users\chaga\Documents\Chaga John\All Projects\MURANI GYM\MURANI GYM\obj\Debug\MURANI GYM.exe
+C:\Users\chaga\Documents\Chaga John\All Projects\MURANI GYM\MURANI GYM\obj\Debug\MURANI GYM.pdb
+C:\Users\chaga\Documents\Chaga John\All Projects\MURANI GYM\MURANI GYM\obj\Debug\MURANI_GYM.frmDashboard.resources
